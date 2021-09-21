@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "945183365382",
+    "project_id": "helix-roll-tp-c673c",
+    "storage_bucket": "helix-roll-tp-c673c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945183365382:android:ba015ed1e962c756396687",
+        "android_client_info": {
+          "package_name": "com.tolulopelonge.HelixRollTp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945183365382-aej6h3dq780ik5g5u1hbb7jummia18gt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGea30NPXSnqxNgI-ETmd86QGimg3Bc9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945183365382-aej6h3dq780ik5g5u1hbb7jummia18gt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
